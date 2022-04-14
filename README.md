@@ -2,6 +2,8 @@
  
 Link to app - https://fai-multi-voila.herokuapp.com
 
+Link to app - https://mybinder.org/v2/gh/reizevans/multi_classification/HEAD?urlpath=%2Fvoila%2Frender%2FMulti_classifier_app.ipynb
+
 Image classification from fastai to distinguish different pet breeds.
 
 Simply upload an image with multiple items to see what is in the image.
